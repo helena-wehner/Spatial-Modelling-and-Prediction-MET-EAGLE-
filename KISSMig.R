@@ -3,6 +3,10 @@
 ### Package Presentation
 ### KISSMig
 
+# https://www.wsl.ch/en/services-and-products/software-websites-and-apps/kissmig.html
+
+# https://cran.r-project.org/web/packages/kissmig/kissmig.pdf
+
 # --------------------------------------------------------------------------
 # 'kissmig' R package - code example
 #  Michael Nobis/WSL (michael.nobis@wsl.ch), December 2014
